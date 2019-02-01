@@ -1,5 +1,5 @@
 <?php 
 
-echo "Hello Wolrd <stromg> tsetes </stromg>";
+echo "Olá Mundo!";
 
 ?> 
